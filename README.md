@@ -1,3 +1,3 @@
 This is the Amazon-clone project build improve skills....
-Using H
+Using HTML
 Amazon clone amas
