@@ -1,3 +1,2 @@
 This is the Amazon-clone project build improve skills....
-Using HTML
-Amazon clone amas
+Build using front end 
