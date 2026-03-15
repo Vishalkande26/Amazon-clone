@@ -1,2 +1,3 @@
 This is the Amazon-clone project build improve skills....
 Build using front end 
+JavaScript
