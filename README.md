@@ -1,2 +1,2 @@
 This is the Amazon-clone project build improve skills....
-Build using frontend technology. 
+Build using frontend technology. . 
