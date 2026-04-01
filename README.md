@@ -1,2 +1,2 @@
-This is the Amazon-clone project build improve skil
+This is the Amazon-clone project build improve ski
 
