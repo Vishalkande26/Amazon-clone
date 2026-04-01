@@ -1,2 +1,2 @@
-This is the Amazon-clone project build improve s
+This is the Amazon-clone. 
 
