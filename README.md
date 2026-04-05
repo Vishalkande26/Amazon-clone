@@ -1,2 +1,2 @@
-This is the Amazo
+This is the Amaz
 
