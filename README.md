@@ -1,2 +1,2 @@
-This is the Amazon-clo
+This is the Amazon-cl
 
