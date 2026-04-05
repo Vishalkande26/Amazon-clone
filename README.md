@@ -1,2 +1,2 @@
-This is the Amazon-clon
+This is the Amazon-clo
 
