@@ -1,2 +1,2 @@
-This is the Ama
+This is the Am
 
