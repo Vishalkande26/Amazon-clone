@@ -1,2 +1,2 @@
-This is the Am
+This is the Amazon-clone. 
 
