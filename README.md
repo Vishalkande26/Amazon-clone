@@ -1,2 +1,2 @@
-This is the Amazon-c
+This is the Amazon-
 
