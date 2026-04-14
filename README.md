@@ -1,3 +1,3 @@
-This is the Amazon-clone. Using
+This is the Amazon-clone. Using HTML, 
 
 
