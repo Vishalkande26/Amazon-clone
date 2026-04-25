@@ -1,3 +1,3 @@
-This is the Amazon-clone. I develop this project using 
+This is the Amazon-clone. 
 
 
